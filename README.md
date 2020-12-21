@@ -1,4 +1,4 @@
-# Recursion_Algorithms_2
+# Recursion_Algorithms_2_Divide_&_Conquer_technique 
 
 Menu based program for Divide and Conquer technique recursive functions of: 
 1) Merge Sort
